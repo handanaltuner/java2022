@@ -1,0 +1,20 @@
+package oop1;
+
+public class IndividualCustomer extends Customer {
+	private String firstName;
+	private String lastName;
+	public String getFirstName() {
+		return firtName;
+	}
+	public void setFirtname(String firtname) {
+		this.firtname = firtname;
+	}
+	public String getLastname() {
+		return lastname;
+	}
+	public void setLastname(String lastname) {
+		this.lastname = lastname;
+	}
+	
+	
+}

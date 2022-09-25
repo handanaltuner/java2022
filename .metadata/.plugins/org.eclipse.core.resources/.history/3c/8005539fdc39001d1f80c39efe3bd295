@@ -1,0 +1,14 @@
+package oop1;
+
+
+//PascalCase
+
+public class Product {
+	String name;
+	double Price;
+	double discount;
+	
+
+	
+
+}
