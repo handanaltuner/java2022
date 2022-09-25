@@ -18,6 +18,8 @@ public class CorporateCustomer extends Customer{
 		this.taxNumer = taxNumer;
 	}
 	
+
+	
 	
 
 }
